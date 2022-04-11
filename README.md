@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+[![ProjectEuler cromarmot](https://projecteuler.net/profile/cromarmot.png)](https://projecteuler.net/progress=cromarmot)
+
+[![AtCoder cromarmot](https://atrating.baoshuo.dev/rating?username=cromarmot)](https://atcoder.jp/users/cromarmot)
+
+[![Codeforces Cro-Marmot](https://cfrating.ihcr.top/?user=Cro-Marmot)](https://codeforces.com/profile/Cro-Marmot)
+
 <!--
 **CroMarmot/CroMarmot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
