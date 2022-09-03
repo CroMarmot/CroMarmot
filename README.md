@@ -4,9 +4,11 @@
 
 [![AtCoder cromarmot](https://atrating.baoshuo.dev/rating?username=cromarmot)](https://atcoder.jp/users/cromarmot)
 
-[![Codeforces Cro-Marmot](https://cfrating.ihcr.top/?user=Cro-Marmot)](https://codeforces.com/profile/Cro-Marmot)
+[![Codeforces Cro-Marmot](https://crackersamdjam.ca/badges/Codeforces/Cro-Marmot)](https://codeforces.com/profile/Cro-Marmot)
 
 <!--
+old url = https://cfrating.ihcr.top/?user=Cro-Marmot
+
 **CroMarmot/CroMarmot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
