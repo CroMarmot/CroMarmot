@@ -6,11 +6,11 @@
 
 [![Codeforces Cro-Marmot](https://crackersamdjam.ca/badges/Codeforces/Cro-Marmot)](https://codeforces.com/profile/Cro-Marmot)
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Cromarmot/9958435e-53b4-4111-a739-951d840198ee.png" /></a>
+<a href="https://wakatime.com/@Cromarmot"><img src="https://wakatime.com/share/@Cromarmot/9958435e-53b4-4111-a739-951d840198ee.png" /></a>
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Cromarmot/12293e62-6d28-4a07-b10e-6907ac7d9754.png" /></a>
+<a href="https://wakatime.com/@Cromarmot"><img src="https://wakatime.com/share/@Cromarmot/12293e62-6d28-4a07-b10e-6907ac7d9754.png" /></a>
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Cromarmot/78474b13-1305-47ce-b3c7-5b287f82f0a2.png" /></a>
+<a href="https://wakatime.com/@Cromarmot"><img src="https://wakatime.com/share/@Cromarmot/78474b13-1305-47ce-b3c7-5b287f82f0a2.png" /></a>
 
 <!--
 old url = https://cfrating.ihcr.top/?user=Cro-Marmot
