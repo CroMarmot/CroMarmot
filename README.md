@@ -2,9 +2,13 @@
 
 [![ProjectEuler cromarmot](https://projecteuler.net/profile/cromarmot.png)](https://projecteuler.net/progress=cromarmot)
 
-[![AtCoder cromarmot](https://atrating.baoshuo.dev/rating?username=cromarmot)](https://atcoder.jp/users/cromarmot)
+[![AtCoder cromarmot](https://py-cromarmot.vercel.app/cp/atcoder/cromarmot.svg)](https://atcoder.jp/users/cromarmot)
 
-[![Codeforces Cro-Marmot](https://crackersamdjam.ca/badges/Codeforces/Cro-Marmot)](https://codeforces.com/profile/Cro-Marmot)
+<!--https://atrating.baoshuo.dev/rating?username=cromarmot-->
+
+[![Codeforces Cro-Marmot](https://py-cromarmot.vercel.app/cp/codeforces/Cro-Marmot.svg)](https://codeforces.com/profile/Cro-Marmot)
+
+<!--https://crackersamdjam.ca/badges/Codeforces/Cro-Marmot-->
 
 <a href="https://wakatime.com/@Cromarmot"><img src="https://wakatime.com/share/@Cromarmot/9958435e-53b4-4111-a739-951d840198ee.png" /></a>
 
